@@ -14,7 +14,7 @@ I'm currently learning more about IoT and embedded systems, and I'm always looki
 
 <h2 align="center">🛠️ Side Projects</h2>
 
-- 🕹️ [Chip 8 Emulator](https://github.com/AnyeloHernandez/project_c8) A simple emulator for the Chip 8 virtual machine, written in Go. It supports a variety of games using SDL2 for graphics.
+- 🕹️ [Chip 8 Emulator](https://github.com/AnyeloHernandez/project_c8) A simple emulator for the Chip 8 virtual machine, written in Go. It supports a variety of games using OpenGL for graphics.
 
 <h2 align="center">🌱 My Skills</h2>
 
